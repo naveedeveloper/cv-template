@@ -1,1 +1,3 @@
-# cv-template
+# CV Template
+
+LaTex CV template
